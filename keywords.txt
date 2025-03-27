@@ -1,0 +1,4 @@
+ST7735	KEYWORD1
+fillRectangle	KEYWORD2
+fillScreen	KEYWORD2
+drawFastHLine	KEYWORD2
